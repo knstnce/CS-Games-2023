@@ -1,0 +1,1 @@
+Simply run `py main.py` (on windows) after running `pip install -r requirements.txt`
